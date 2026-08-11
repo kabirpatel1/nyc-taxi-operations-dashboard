@@ -30,7 +30,7 @@ Fleet operations managers need a fast, accessible way to understand where and wh
 **View the interactive dashboard here:**
 [NYC Taxi Operations Dashboard on Tableau Public](https://public.tableau.com/views/NYCTaxiOperationsDashboard/Dashboard1)
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](images/Dashboard.png)
 *Interactive dashboard showing KPI cards, trip volume by hour, total fare revenue by hour, and average fare by pickup zone.*
 
 ---
